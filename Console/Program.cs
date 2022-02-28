@@ -1,4 +1,4 @@
-﻿namespace IBondarik.HardwareCatalog.Console;
+﻿namespace HardwareCatalog.Console;
 
 public class Program
 {

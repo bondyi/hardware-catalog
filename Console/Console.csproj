@@ -5,8 +5,8 @@
         <TargetFramework>net6.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
-        <AssemblyName>IBondarik.HardwareCatalog.Console</AssemblyName>
-        <RootNamespace>IBondarik.HardwareCatalog.Console</RootNamespace>
+        <AssemblyName>HardwareCatalog.Console</AssemblyName>
+        <RootNamespace>HardwareCatalog.Console</RootNamespace>
     </PropertyGroup>
 
     <ItemGroup>

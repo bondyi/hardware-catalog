@@ -1,7 +1,7 @@
 ﻿using System.Text.Json.Serialization;
-using IBondarik.HardwareCatalog.Domain.Components.AbstractComponents;
+using HardwareCatalog.Domain.Components.AbstractComponents;
 
-namespace IBondarik.HardwareCatalog.Domain.Components;
+namespace HardwareCatalog.Domain.Components;
 
 public record Cable : Hardware
 {

@@ -1,8 +1,8 @@
 ﻿using System.Text.Json;
-using IBondarik.HardwareCatalog.Domain.Components;
-using IBondarik.HardwareCatalog.Domain.Components.AbstractComponents;
+using HardwareCatalog.Domain.Components;
+using HardwareCatalog.Domain.Components.AbstractComponents;
 
-namespace IBondarik.HardwareCatalog.Persistence;
+namespace HardwareCatalog.Persistence;
 
 public class HardwareRepository : IHardwareRepository
 {

@@ -1,4 +1,4 @@
-﻿namespace IBondarik.HardwareCatalog.Service;
+﻿namespace HardwareCatalog.Service;
 
 public class HardwareKitGenerator
 {

@@ -4,8 +4,8 @@
         <TargetFramework>net6.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
-        <AssemblyName>IBondarik.HardwareCatalog.Service</AssemblyName>
-        <RootNamespace>IBondarik.HardwareCatalog.Service</RootNamespace>
+        <AssemblyName>HardwareCatalog.Service</AssemblyName>
+        <RootNamespace>HardwareCatalog.Service</RootNamespace>
     </PropertyGroup>
 
     <ItemGroup>

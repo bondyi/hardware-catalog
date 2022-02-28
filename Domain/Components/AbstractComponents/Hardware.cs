@@ -1,6 +1,6 @@
 ﻿using System.Text.Json.Serialization;
 
-namespace IBondarik.HardwareCatalog.Domain.Components.AbstractComponents;
+namespace HardwareCatalog.Domain.Components.AbstractComponents;
 
 public abstract record Hardware
 {

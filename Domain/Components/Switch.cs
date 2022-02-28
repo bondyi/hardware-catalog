@@ -1,6 +1,6 @@
 ﻿using System.Text.Json.Serialization;
 
-namespace IBondarik.HardwareCatalog.Domain.Components;
+namespace HardwareCatalog.Domain.Components;
 
 public record Switch : Router
 {

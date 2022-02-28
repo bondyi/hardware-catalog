@@ -1,7 +1,7 @@
-﻿using IBondarik.HardwareCatalog.Domain.Components.AbstractComponents;
+﻿using HardwareCatalog.Domain.Components.AbstractComponents;
 using System.Text.Json.Serialization;
 
-namespace IBondarik.HardwareCatalog.Domain.Components;
+namespace HardwareCatalog.Domain.Components;
 
 public record Router : Hardware
 {

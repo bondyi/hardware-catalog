@@ -4,8 +4,8 @@
         <TargetFramework>net6.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
-        <AssemblyName>IBondarik.HardwareCatalog.Domain</AssemblyName>
-        <RootNamespace>IBondarik.HardwareCatalog.Domain</RootNamespace>
+        <AssemblyName>HardwareCatalog.Domain</AssemblyName>
+        <RootNamespace>HardwareCatalog.Domain</RootNamespace>
     </PropertyGroup>
 
 </Project>

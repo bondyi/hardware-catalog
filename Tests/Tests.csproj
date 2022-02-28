@@ -6,9 +6,9 @@
 
         <IsPackable>false</IsPackable>
 
-        <AssemblyName>IBondarik.HardwareCatalog.Tests</AssemblyName>
+        <AssemblyName>HardwareCatalog.Tests</AssemblyName>
 
-        <RootNamespace>IBondarik.HardwareCatalog.Tests</RootNamespace>
+        <RootNamespace>HardwareCatalog.Tests</RootNamespace>
     </PropertyGroup>
 
     <ItemGroup>
