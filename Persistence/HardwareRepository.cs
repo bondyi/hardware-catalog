@@ -26,7 +26,7 @@ public class HardwareRepository : IHardwareRepository
                     switch (typeHardware.Name)
                     {
                         case "routers": hardwares.Add(item.Deserialize<Router>()); break;
-                        case "switches": hardwares.Add(item.Deserialize<Switch>()); break;
+                        case "switches": hardwares.Add(item.Deserialize<Switcher>()); break;
                         case "cables": hardwares.Add(item.Deserialize<Cable>()); break;
                     }
                 }
