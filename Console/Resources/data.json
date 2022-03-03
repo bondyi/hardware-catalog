@@ -1,0 +1,84 @@
+﻿{
+  "catalog": [
+    {
+      "networkHardware": {
+        "routers": [
+          {
+            "name": "Xiaomi Router AX3200",
+            "speed": 3200,
+            "price": 199.00
+          },
+          {
+            "name": "Keenetic Extra KN-1711",
+            "speed": 1200,
+            "price": 179.90
+          },
+          {
+            "name": "TP-Link Archer C80",
+            "speed": 1900,
+            "price": 167.71
+          },
+          {
+            "name": "TP-Link TL-WR841N",
+            "speed": 300,
+            "price": 48.60
+          },
+          {
+            "name": "ASUS RT-AX88U",
+            "speed": 5952,
+            "price": 1118.00
+          }
+        ],
+        "switches": [
+          {
+            "name": "TP-Link TL-SG105",
+            "speed": 1000,
+            "price": 54.71,
+            "ports": 5
+          },
+          {
+            "name": "D-Link DGS-1008D/K2A",
+            "speed": 1000,
+            "price": 85.40,
+            "ports": 8
+          },
+          {
+            "name": "D-Link DES-1026G/E1A",
+            "speed": 100,
+            "price": 283.70,
+            "ports": 24
+          },
+          {
+            "name": "Aten VM0202H",
+            "speed": 10,
+            "price": 683.55,
+            "ports": 2
+          },
+          {
+            "name": "D-Link DGS-1250-52X/A1A",
+            "speed": 1000,
+            "price": 1743.42,
+            "ports": 48
+          }
+        ],
+        "cables": [
+          {
+            "name": "ExeGate UTP-RJ45-RJ45-5e-2M-RD",
+            "length": 2,
+            "price": 2.28
+          },
+          {
+            "name": "Cablexpert PP12",
+            "length": 15,
+            "price": 7.95
+          },
+          {
+            "name": "Perfeo RJ45 - RJ45 P6007",
+            "length": 10,
+            "price": 23.69
+          }
+        ]
+      }
+    }
+  ]
+}
