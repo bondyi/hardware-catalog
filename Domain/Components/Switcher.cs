@@ -2,7 +2,7 @@
 
 namespace HardwareCatalog.Domain.Components;
 
-public record Switch : Router
+public record Switcher : Router
 {
     private readonly int _ports;
     
@@ -21,7 +21,7 @@ public record Switch : Router
         }
     }
 
-    public Switch(string? name, int speed, int ports, decimal price) :
+    public Switcher(string? name, int speed, int ports, decimal price) :
         base(name, speed, price)
     {
         Ports = ports;
